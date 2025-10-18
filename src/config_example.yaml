@@ -1,0 +1,14 @@
+phone_providers:
+  numverify:
+    enabled: false
+    api_key: "YOUR_NUMVERIFY_KEY"
+
+ip_providers:
+  ipinfo:
+    enabled: false
+    api_key: "YOUR_IPINFO_KEY"
+  ip_api:
+    enabled: true
+
+instagram:
+  use_instaloader: true

@@ -1,0 +1,4 @@
+phonenumbers>=8.13.0
+requests>=2.28.0
+PyYAML>=6.0
+instaloader>=4.9  # opsiyonel
